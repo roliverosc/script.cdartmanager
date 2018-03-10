@@ -28,15 +28,15 @@ msgstr "Artistas Reconocidos"
 
 msgctxt "#32001"
 msgid "Album cdARTs"
-msgstr "Todos los Artistas"
+msgstr "cdARTs Álbumes"
 
 msgctxt "#32002"
 msgid "Select Artist"
-msgstr "Seleccione Artista"
+msgstr "Seleccionar Artista"
 
 msgctxt "#32003"
 msgid "Album Cover Arts"
-msgstr "Buscar Albumes"
+msgstr "Portadas"
 
 msgctxt "#32004"
 msgid "Automatic Download"
@@ -44,19 +44,19 @@ msgstr "Descarga Automática"
 
 msgctxt "#32005"
 msgid "Save Local cdART List"
-msgstr "Guardar Lista Local de cdART"
+msgstr "Guardar lista local cdART"
 
 msgctxt "#32006"
 msgid "Artist Fanarts"
-msgstr "Fan Arts"
+msgstr "FanArt"
 
 msgctxt "#32007"
 msgid "Local Album Artists: %s"
-msgstr "Local Artistas: %s"
+msgstr "Artistas: %s"
 
 msgctxt "#32008"
 msgid "Local cdARTs: %s"
-msgstr "Local cdARTs: %s"
+msgstr "cdARTs: %s"
 
 msgctxt "#32009"
 msgid "Artist ClearLOGOs"
@@ -64,7 +64,7 @@ msgstr "ClearLOGOs"
 
 msgctxt "#32010"
 msgid "Local Discs: %s"
-msgstr "Local Albumes: %s"
+msgstr "Albumes: %s"
 
 msgctxt "#32011"
 msgid "Advanced"
@@ -72,67 +72,67 @@ msgstr "Avanzado"
 
 msgctxt "#32012"
 msgid "Refresh Addon Database"
-msgstr "Refrescar la Base de Datos del Addon"
+msgstr "Actualizar base de datos del addon"
 
 msgctxt "#32013"
 msgid "Clean XBMC's Music Library"
-msgstr ""
+msgstr "Limpiar biblioteca de música KODI"
 
 msgctxt "#32014"
 msgid "Update XBMC's Music Library"
-msgstr ""
+msgstr "Actualizar biblioteca de música KODI"
 
 msgctxt "#32015"
 msgid "Delete Addon's Database?"
-msgstr "Borrar Base de Datos Local?"
+msgstr "¿Desea eliminar la Base de Datos Local?"
 
 msgctxt "#32016"
 msgid "Disc:"
-msgstr "Disc:"
+msgstr "Discos:"
 
 msgctxt "#32017"
 msgid "Local cdART List saving folder"
-msgstr "Carpeta donde guardar cdART Locales"
+msgstr "Carpeta para guardar la lista cdART local"
 
 msgctxt "#32018"
 msgid "cdART  Backup folder"
-msgstr "Carpeta de Respaldo cdART"
+msgstr "Carpeta para respaldo cdART"
 
 msgctxt "#32019"
 msgid "Backup saving format: "
-msgstr "Guardar respaldo en formato: "
+msgstr "Formato para respaldo: "
 
 msgctxt "#32020"
 msgid "Retrieving Music Database"
-msgstr "Buscando Base de Datos de Música"
+msgstr "Recuperando base de datos de música"
 
 msgctxt "#32021"
 msgid "Creating Addon Database"
-msgstr "Creando Base de Datos del Addon"
+msgstr "Creando base de datos del Addon"
 
 msgctxt "#32022"
 msgid "Choose Available cdART"
-msgstr "Elije cdART disponible"
+msgstr "Elija cdART disponible"
 
 msgctxt "#32023"
 msgid "Download Successful!"
-msgstr "Descarga Exitosa!"
+msgstr "Descarga completada!"
 
 msgctxt "#32024"
 msgid "Artwork Downloaded!"
-msgstr "cdART Descargado!"
+msgstr "Artwork descargado!"
 
 msgctxt "#32025"
 msgid "Check file paths-Artwork Not Downloaded"
-msgstr "Verifica ruta de archivos-cdART No Descargado"
+msgstr "Comprube la ruta para archivos - Artwork no descargados"
 
 msgctxt "#32026"
 msgid "Download Error Occured!"
-msgstr "Error en Descarga!"
+msgstr "Error durante la descarga!"
 
 msgctxt "#32027"
 msgid "Artwork Not Download!"
-msgstr "cdART No Descargado!"
+msgstr "Artwork no descargado!"
 
 msgctxt "#32028"
 msgid "Download aborted!"
@@ -140,15 +140,15 @@ msgstr "¡Descarga cancelada!"
 
 msgctxt "#32029"
 msgid "No Artwork found?"
-msgstr "Ningún cdART encontrado?"
+msgstr "No se encontraron ilustraciones?"
 
 msgctxt "#32030"
 msgid "Please contribute! Upload your Artwork"
-msgstr "Por favor contribuye! Sube tus cdARTs"
+msgstr "Por favor contribuya! Suba su Artwork (ilustraciones)"
 
 msgctxt "#32031"
 msgid "On fanart.tv"
-msgstr "A www.fanart.tv"
+msgstr "A fanart.tv"
 
 msgctxt "#32032"
 msgid "Choose an Artist"
@@ -156,15 +156,15 @@ msgstr "Elije un Artista"
 
 msgctxt "#32033"
 msgid "Not Found on fanart.tv"
-msgstr "No Encontrado en fanart.tv"
+msgstr "No encontrado en fanart.tv"
 
 msgctxt "#32034"
 msgid "No Artwork found for"
-msgstr "Ningún cdART encontrado para"
+msgstr "No encorntrado Artwork para"
 
 msgctxt "#32035"
 msgid " *DOWNLOADING Artwork* "
-msgstr " *DESCARGANDO cdART* "
+msgstr " *DESCARGANDO Artwork* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
