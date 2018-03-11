@@ -28,7 +28,7 @@ msgstr "Artistas Reconocidos"
 
 msgctxt "#32001"
 msgid "Album cdARTs"
-msgstr "cdARTs Álbumes"
+msgstr "cdARTs para Álbumes"
 
 msgctxt "#32002"
 msgid "Select Artist"
@@ -36,7 +36,7 @@ msgstr "Seleccionar Artista"
 
 msgctxt "#32003"
 msgid "Album Cover Arts"
-msgstr "Portadas"
+msgstr "Portadas para Álbumes"
 
 msgctxt "#32004"
 msgid "Automatic Download"
@@ -48,11 +48,11 @@ msgstr "Guardar lista local cdART"
 
 msgctxt "#32006"
 msgid "Artist Fanarts"
-msgstr "FanArt"
+msgstr "FanArt para Artistas"
 
 msgctxt "#32007"
 msgid "Local Album Artists: %s"
-msgstr "Artistas: %s"
+msgstr "Álbum Artistas: %s"
 
 msgctxt "#32008"
 msgid "Local cdARTs: %s"
@@ -60,7 +60,7 @@ msgstr "cdARTs: %s"
 
 msgctxt "#32009"
 msgid "Artist ClearLOGOs"
-msgstr "ClearLOGOs"
+msgstr "ClearLOGOs para Artistas"
 
 msgctxt "#32010"
 msgid "Local Discs: %s"
@@ -84,7 +84,7 @@ msgstr "Actualizar biblioteca de música KODI"
 
 msgctxt "#32015"
 msgid "Delete Addon's Database?"
-msgstr "¿Desea eliminar la Base de Datos Local?"
+msgstr "¿Desea eliminar la base de datos Local?"
 
 msgctxt "#32016"
 msgid "Disc:"
@@ -92,15 +92,15 @@ msgstr "Discos:"
 
 msgctxt "#32017"
 msgid "Local cdART List saving folder"
-msgstr "Carpeta para guardar la lista cdART local"
+msgstr "Carpeta para guardar lista cdART local"
 
 msgctxt "#32018"
 msgid "cdART  Backup folder"
-msgstr "Carpeta para respaldo cdART"
+msgstr "Carpeta para copia de seguridad cdART"
 
 msgctxt "#32019"
 msgid "Backup saving format: "
-msgstr "Formato para respaldo: "
+msgstr "Formato para copia de seguridad: "
 
 msgctxt "#32020"
 msgid "Retrieving Music Database"
@@ -112,7 +112,7 @@ msgstr "Creando base de datos del Addon"
 
 msgctxt "#32022"
 msgid "Choose Available cdART"
-msgstr "Elija cdART disponible"
+msgstr "Seleccione un cdART"
 
 msgctxt "#32023"
 msgid "Download Successful!"
@@ -124,7 +124,7 @@ msgstr "Artwork descargado!"
 
 msgctxt "#32025"
 msgid "Check file paths-Artwork Not Downloaded"
-msgstr "Comprube la ruta para archivos - Artwork no descargados"
+msgstr "Comprube rutas para ilustraciones - Artworks no descargados"
 
 msgctxt "#32026"
 msgid "Download Error Occured!"
@@ -140,11 +140,11 @@ msgstr "¡Descarga cancelada!"
 
 msgctxt "#32029"
 msgid "No Artwork found?"
-msgstr "No se encontraron ilustraciones?"
+msgstr "¿No se encontraron ilustraciones?"
 
 msgctxt "#32030"
 msgid "Please contribute! Upload your Artwork"
-msgstr "Por favor contribuya! Suba su Artwork (ilustraciones)"
+msgstr "Por favor contribuya! Suba sus ilustraciones (Artwork)"
 
 msgctxt "#32031"
 msgid "On fanart.tv"
@@ -152,7 +152,7 @@ msgstr "A fanart.tv"
 
 msgctxt "#32032"
 msgid "Choose an Artist"
-msgstr "Elije un Artista"
+msgstr "Seleccione un Artista"
 
 msgctxt "#32033"
 msgid "Not Found on fanart.tv"
@@ -160,7 +160,7 @@ msgstr "No encontrado en fanart.tv"
 
 msgctxt "#32034"
 msgid "No Artwork found for"
-msgstr "No encorntrado Artwork para"
+msgstr "No encontrado Artwork para"
 
 msgctxt "#32035"
 msgid " *DOWNLOADING Artwork* "
@@ -168,11 +168,11 @@ msgstr " *DESCARGANDO Artwork* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
-msgstr ""
+msgstr "Ruta carpeta música (para ilustraciones)"
 
 msgctxt "#32037"
 msgid "Getting local artists"
-msgstr "Buscando artistas en locales"
+msgstr "Buscando artistas en local"
 
 msgctxt "#32038"
 msgid "Artist: "
@@ -188,30 +188,30 @@ msgstr "Completado"
 
 msgctxt "#32041"
 msgid "New Artwork downloaded"
-msgstr "Nuevo cdARTs descargado"
+msgstr "Nuevo Artwork descargado"
 
 msgctxt "#32042"
 msgid "cdART Manager"
-msgstr "Administrador de cdART"
+msgstr ""
 
 #. string insert for local artist
 msgctxt "#32043"
 msgid "Local Artists:"
-msgstr "Local Artistas:"
+msgstr "Artistas:"
 
 #. string insert for local cdARTs
 msgctxt "#32044"
 msgid "Local cdARTs:"
-msgstr "Local cdARTs:"
+msgstr "cdARTs:"
 
 #. string insert for local albums
 msgctxt "#32045"
 msgid "Local Discs:"
-msgstr "Local Albumes:"
+msgstr "Álbumes:"
 
 msgctxt "#32046"
 msgid "Automatic Downloading Artwork"
-msgstr "Descargando Automáticamente cdARTs"
+msgstr "Descarga automática de Artwork"
 
 msgctxt "#32047"
 msgid "Downloading..."
@@ -219,51 +219,51 @@ msgstr "Descargando..."
 
 msgctxt "#32048"
 msgid "Retrieving Recognized Artist List...."
-msgstr "Buscando Lista de Artistas Reconocidos...."
+msgstr "Recuperando lista de Artistas reconocidos...."
 
 msgctxt "#32049"
 msgid "Artists Matched: %s"
-msgstr "Artistas que Coinciden: %s"
+msgstr "Artistas que coinciden: %s"
 
 msgctxt "#32050"
 msgid "Database setup aborted..."
-msgstr "Disposición de Base de Datos abortada..."
+msgstr "Configuración base de datos abortada..."
 
 msgctxt "#32051"
 msgid "Addon Database is crucial to script!"
-msgstr "Base de Datos del Addon es crucial para el script!"
+msgstr "La base de fatos del Addon es crucial para el script!"
 
 msgctxt "#32052"
 msgid "Please go to the Advanced Menu and"
-msgstr "Por favor ir al Menú Avanzado y"
+msgstr "Por favor vaya al Menú Avanzado y"
 
 msgctxt "#32053"
 msgid "Refresh Addon Database"
-msgstr "Refrescar la Base de Datos del Addon"
+msgstr "Actulice la base de datos del Addon"
 
 msgctxt "#32054"
 msgid "/Artist/Album.png"
-msgstr "/Artist/Album.png"
+msgstr ""
 
 msgctxt "#32055"
 msgid "/artist - album.png"
-msgstr "/artist - album.png"
+msgstr ""
 
 msgctxt "#32056"
 msgid "cdARTs Copied"
-msgstr "cdARTs Copiados"
+msgstr ""
 
 msgctxt "#32057"
 msgid "Finished Copying cdARTs"
-msgstr "Copiado de cdARTs finalizado"
+msgstr "Finalizado copiado de cdARTs"
 
 msgctxt "#32058"
 msgid "cdARTs Stored in"
-msgstr "cdARTs Guardados en"
+msgstr "cdARTs almacenados en"
 
 msgctxt "#32059"
 msgid " cdARTs Copied"
-msgstr " cdARTs Copiados"
+msgstr " cdARTs copiados"
 
 msgctxt "#32060"
 msgid "Copying cdARTs..."
@@ -271,11 +271,11 @@ msgstr "Copiando cdARTs..."
 
 msgctxt "#32061"
 msgid "cdART Backup"
-msgstr "Respaldo cdART"
+msgstr "Copia de seguridad cdART"
 
 msgctxt "#32062"
 msgid "Path for missing.txt file"
-msgstr "Ruta para archivo missing.txt"
+msgstr "Ruta archivo missing.txt"
 
 msgctxt "#32063"
 msgid "Copy Unique Local cdARTs"
@@ -287,27 +287,27 @@ msgstr "Carpeta Única de cdART Local: %s"
 
 msgctxt "#32065"
 msgid "Comparing Local and Online cdARTs..."
-msgstr "Comparando cdARTs Locales y Online..."
+msgstr "Comparando cdARTs locales y online..."
 
 msgctxt "#32066"
 msgid "Error connecting to fanart.tv, Socket Timed out"
-msgstr "Error conectando a fanart.tv, Tiempo agotado!"
+msgstr "Error al conectar con fanart.tv, tiempo de espera agotado!"
 
 msgctxt "#32067"
 msgid "Backup cdART Files"
-msgstr "Respaldar Archivos cdART"
+msgstr "Copia de seguridad archivos cdART"
 
 msgctxt "#32068"
 msgid "Restore From Backup"
-msgstr "Restaurar desde Respaldo"
+msgstr "Restaurar desde copia de seguridad"
 
 msgctxt "#32069"
 msgid "Restoring cdARTs from backup..."
-msgstr "Restaurando cdARTs desde Respaldo..."
+msgstr "Restaurando cdARTs desde copia de seguridad..."
 
 msgctxt "#32070"
 msgid "cdARTs Restored from backup folder"
-msgstr "cdARTs Restaurados desde Carpeta de Respaldo"
+msgstr "cdARTs restaurados desde carpeta de respaldo"
 
 msgctxt "#32071"
 msgid "Settings have not been setup!"
@@ -315,15 +315,15 @@ msgstr "No ha sido elegida una Configuración!"
 
 msgctxt "#32072"
 msgid "Please go to Settings menu..."
-msgstr "Por favor ir al Menú de Configuración..."
+msgstr "Por favor vaya a Menú de Configuración..."
 
 msgctxt "#32073"
 msgid "Then Advanced: Refresh Addon Database"
-msgstr "Luego Avanzado: Refrescar Base de Datos del Addon"
+msgstr "Opciones Avanzadas: Actualizar base de datos del addon"
 
 msgctxt "#32074"
 msgid "Copy cdART to Backup Folder"
-msgstr "Copiando cdART a Carpeta de Respaldo"
+msgstr "Copiando cdART a carpeta de respaldo"
 
 msgctxt "#32075"
 msgid "Delete cdART"
@@ -331,11 +331,11 @@ msgstr "Borrar cdART"
 
 msgctxt "#32076"
 msgid "Copy To Unique Folder For Upload"
-msgstr "Copiar a Carpeta Única para Subir"
+msgstr "Copiar a carpeta única para subir"
 
 msgctxt "#32077"
 msgid "Custom Label Colors"
-msgstr "Color de Etiquetas Personalizado"
+msgstr "Personalizar color de etiquetas"
 
 msgctxt "#32078"
 msgid "Green"
@@ -371,35 +371,35 @@ msgstr "Violeta"
 
 msgctxt "#32086"
 msgid "Pink"
-msgstr "Rosado"
+msgstr "Rosa"
 
 msgctxt "#32087"
 msgid "   Recognized Artists Color"
-msgstr "   Color de Artistas Reconocidos"
+msgstr "   Color para Artistas Reconocidos"
 
 msgctxt "#32088"
 msgid "   Unrecognized Artists Color"
-msgstr "   Color de Artistas No Reconocidos"
+msgstr "   Color para Artistas No Reconocidos"
 
 msgctxt "#32089"
 msgid "   fanart.tv Albums Match Color"
-msgstr "   Color de Albumes que coinciden con fanart.tv"
+msgstr "   Color para Albumes que coinciden con fanart.tv"
 
 msgctxt "#32090"
 msgid "   Local Albums Match Color"
-msgstr "   Color de Albumes Locales que Coinciden"
+msgstr "   Color para Albumes Locales que coinciden"
 
 msgctxt "#32091"
 msgid "   Local and fanart.tv Match Color"
-msgstr "   Color de Locales y fanart.tv Coincidente"
+msgstr "   Color para ilustraciones Locales y en fanart.tv que coinciden"
 
 msgctxt "#32092"
 msgid "   Unmatched Album Color"
-msgstr "   Color de Álbum que No Coincide"
+msgstr "   Color para Álbum que No Coincide"
 
 msgctxt "#32093"
 msgid "   Local cdART List Color"
-msgstr "   Color de Lista Local de cdART"
+msgstr "   Color para Lista Local de cdART"
 
 msgctxt "#32094"
 msgid "Enable custom colors for labels"
@@ -407,7 +407,7 @@ msgstr "Habilitar colores personalizados para etiquetas"
 
 msgctxt "#32095"
 msgid "File Folders"
-msgstr "Carpetas de Archivos"
+msgstr "Carpetas para archivos"
 
 msgctxt "#32096"
 msgid "Duplicates Found"
@@ -415,43 +415,43 @@ msgstr "Duplicados Encontrados"
 
 msgctxt "#32097"
 msgid "    Resize Unique cdARTs?"
-msgstr "    Redimensionar cdARTs Únicos?"
+msgstr "    Redimensionar cdARTs únicos?"
 
 msgctxt "#32098"
 msgid "Local cdART List"
-msgstr "Lista Local de cdART"
+msgstr "Lista para cdART Local"
 
 msgctxt "#32099"
 msgid "Build Addon Database in background"
-msgstr ""
+msgstr "Crear base de datos en segundo plano"
 
 msgctxt "#32100"
 msgid "Local Album Count"
-msgstr "Cuenta Local de Albumes"
+msgstr "Recuento Albumes Local"
 
 msgctxt "#32101"
 msgid "Sorting Album Artists"
-msgstr "Organizando Álbum de Artistas"
+msgstr "Ordenación para Álbum Artistas"
 
 msgctxt "#32102"
 msgid "Retrieving Local Database"
-msgstr "Buscando Base de Datos Local"
+msgstr "Recuperando Base de Datos Local"
 
 msgctxt "#32103"
 msgid "Saving Missing Artwork List"
-msgstr "Grabando Lista de Carátulas no encontradas"
+msgstr "Guardando lista de ilustraciones no encontradas"
 
 msgctxt "#32104"
 msgid "Uploading Missing cdART List to website"
-msgstr "Subiendo Lista de cdART Faltante a pagina web"
+msgstr "Subiendo lista de cdART no encontrados a pagina web"
 
 msgctxt "#32105"
 msgid "Retrieving Album Details"
-msgstr "Buscando detalles de Álbum"
+msgstr "Recuperando detalles de Álbum"
 
 msgctxt "#32106"
 msgid "Overwrite low-res existing cdARTs"
-msgstr "Sobreescribe cdARTs existentes de baja resolución"
+msgstr "Sobreescribir cdARTs de baja resolución existentes"
 
 msgctxt "#32108"
 msgid "Database too old"
@@ -459,7 +459,7 @@ msgstr "Base de datos demasiado antigua"
 
 msgctxt "#32109"
 msgid "Do you want to Rebuild?"
-msgstr "¿Desea Reconstruir?"
+msgstr "¿Desea volver a crearla?"
 
 msgctxt "#32110"
 msgid "Problem Accessing Folder, Script Exiting"
