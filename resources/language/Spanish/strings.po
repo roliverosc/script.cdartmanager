@@ -52,7 +52,7 @@ msgstr "FanArt para Artistas"
 
 msgctxt "#32007"
 msgid "Local Album Artists: %s"
-msgstr "Álbum Artistas: %s"
+msgstr "Álbumes Artistas: %s"
 
 msgctxt "#32008"
 msgid "Local cdARTs: %s"
@@ -64,7 +64,7 @@ msgstr "ClearLOGOs para Artistas"
 
 msgctxt "#32010"
 msgid "Local Discs: %s"
-msgstr "Albumes: %s"
+msgstr "Álbumes: %s"
 
 msgctxt "#32011"
 msgid "Advanced"
@@ -144,7 +144,7 @@ msgstr "¿No se encontraron ilustraciones?"
 
 msgctxt "#32030"
 msgid "Please contribute! Upload your Artwork"
-msgstr "Por favor contribuya! Suba sus ilustraciones (Artwork)"
+msgstr "Por favor considere contribuir! Suba sus ilustraciones (Artwork)"
 
 msgctxt "#32031"
 msgid "On fanart.tv"
@@ -279,15 +279,15 @@ msgstr "Ruta archivo missing.txt"
 
 msgctxt "#32063"
 msgid "Copy Unique Local cdARTs"
-msgstr "Copiar cdARTs Local Única"
+msgstr ""
 
 msgctxt "#32064"
 msgid "Unique cdARTS folder: %s"
-msgstr "Carpeta Única de cdART Local: %s"
+msgstr "Carpeta especial para cdARTs Local: %s"
 
 msgctxt "#32065"
 msgid "Comparing Local and Online cdARTs..."
-msgstr "Comparando cdARTs locales y online..."
+msgstr "Comparando cdARTs locales con online..."
 
 msgctxt "#32066"
 msgid "Error connecting to fanart.tv, Socket Timed out"
@@ -323,7 +323,7 @@ msgstr "Opciones Avanzadas: Actualizar base de datos del addon"
 
 msgctxt "#32074"
 msgid "Copy cdART to Backup Folder"
-msgstr "Copiando cdART a carpeta de respaldo"
+msgstr "Copiar cdART a carpeta de respaldo"
 
 msgctxt "#32075"
 msgid "Delete cdART"
@@ -331,7 +331,7 @@ msgstr "Borrar cdART"
 
 msgctxt "#32076"
 msgid "Copy To Unique Folder For Upload"
-msgstr "Copiar a carpeta única para subir"
+msgstr "Copiar a carpeta especial para subir"
 
 msgctxt "#32077"
 msgid "Custom Label Colors"
@@ -383,15 +383,15 @@ msgstr "   Color para Artistas No Reconocidos"
 
 msgctxt "#32089"
 msgid "   fanart.tv Albums Match Color"
-msgstr "   Color para Albumes que coinciden con fanart.tv"
+msgstr "   Color para Álbumes que coinciden con fanart.tv"
 
 msgctxt "#32090"
 msgid "   Local Albums Match Color"
-msgstr "   Color para Albumes Locales que coinciden"
+msgstr "   Color para Álbumes Locales que coinciden"
 
 msgctxt "#32091"
 msgid "   Local and fanart.tv Match Color"
-msgstr "   Color para ilustraciones Locales y en fanart.tv que coinciden"
+msgstr "   Color para ilustraciones que coinciden en Local y en fanart.tv"
 
 msgctxt "#32092"
 msgid "   Unmatched Album Color"
@@ -411,23 +411,23 @@ msgstr "Carpetas para archivos"
 
 msgctxt "#32096"
 msgid "Duplicates Found"
-msgstr "Duplicados Encontrados"
+msgstr "Duplicados encontrados"
 
 msgctxt "#32097"
 msgid "    Resize Unique cdARTs?"
-msgstr "    Redimensionar cdARTs únicos?"
+msgstr "    Redimensionar especiales cdARTs?"
 
 msgctxt "#32098"
 msgid "Local cdART List"
-msgstr "Lista para cdART Local"
+msgstr "Lista cdART Local"
 
 msgctxt "#32099"
 msgid "Build Addon Database in background"
-msgstr "Crear base de datos en segundo plano"
+msgstr "Crear Base de Datos en segundo plano"
 
 msgctxt "#32100"
 msgid "Local Album Count"
-msgstr "Recuento Albumes Local"
+msgstr "Recuento Álbumes Local"
 
 msgctxt "#32101"
 msgid "Sorting Album Artists"
@@ -463,7 +463,7 @@ msgstr "¿Desea volver a crearla?"
 
 msgctxt "#32110"
 msgid "Problem Accessing Folder, Script Exiting"
-msgstr "Problema al acceder a la carpeta, cerrando script"
+msgstr "Problema accediendo a la carpeta, cerrando Script"
 
 msgctxt "#32111"
 msgid "Downloaded Artwork"
@@ -479,35 +479,35 @@ msgstr "Finalizada actualización de Miniaturas y Fanarts"
 
 msgctxt "#32114"
 msgid "Check Database MBID's to be current during an Update"
-msgstr "Compruebe que la MBID de la Base de datos sea la actual cuando se actualiza"
+msgstr "Comprobar los MBID(MusicBrainz Identifier) actuales durante la actualización de la Base de Datos"
 
 msgctxt "#32115"
 msgid "Notify while in Background mode"
-msgstr "Notificar mientras está en modo 2º plano"
+msgstr "Notificar mientras está en modo segundo plano"
 
 msgctxt "#32116"
 msgid "Notify At End of Background Database Build(displayed for 2 seconds)"
-msgstr "Notificar al Finalizar La Creación de la Base de Datos (se verá 2 segundos)"
+msgstr "Notificar al finalizar la creación de la Base de Datos(se mostrara durante 2 segundos)"
 
 msgctxt "#32117"
 msgid "Database Building completed"
-msgstr "Creación de la base de datos completada"
+msgstr "Creación de Base de Datos completada"
 
 msgctxt "#32118"
 msgid "Background Database building in progress...  Exiting Script..."
-msgstr "Creando Base de Datos en 2º Plano...  Saliendo del Script..."
+msgstr "Creación Base de Datos en progreso...  Saliendo del Script..."
 
 msgctxt "#32119"
 msgid "Stopping Background Database Building"
-msgstr "Deteniendo la Creación de la Base de Datos en 2º Plano"
+msgstr "Deteniendo creación de Base de Datos"
 
 msgctxt "#32120"
 msgid "All Artists"
-msgstr "Todos los artistas"
+msgstr "Todos los Artistas"
 
 msgctxt "#32121"
 msgid "Album Artists"
-msgstr "Artistas del Álbum"
+msgstr "Artistas Álbum"
 
 msgctxt "#32122"
 msgid "Edit Artist"
@@ -515,19 +515,19 @@ msgstr "Editar Artista"
 
 msgctxt "#32123"
 msgid "Backup Database"
-msgstr "Realizar copia de seguridad de la base de datos"
+msgstr "Realizar copia de seguridad de Base de Datos"
 
 msgctxt "#32124"
 msgid "Retrieving All Local Artists"
-msgstr "Recuperando Todos los Artistas Locales"
+msgstr "Recuperando todos los Artistas Locales"
 
 msgctxt "#32125"
 msgid "Artist ID: "
-msgstr "Artista: "
+msgstr "ID Artista: "
 
 msgctxt "#32126"
 msgid "Modify Addon Database"
-msgstr ""
+msgstr "Modificar Base de Datos"
 
 msgctxt "#32127"
 msgid "Edit Album"
@@ -535,31 +535,31 @@ msgstr "Editar Álbum"
 
 msgctxt "#32128"
 msgid "MusicBrainz Search Limit"
-msgstr "Límite de búsqueda en MusicBrainz"
+msgstr "Límite de búsqueda para MusicBrainz"
 
 msgctxt "#32129"
 msgid "Update Database"
-msgstr "Actualiza la base de datos"
+msgstr "Actualizar Base de Datos"
 
 msgctxt "#32130"
 msgid "XBMC Music Database missing..."
-msgstr "Base de datos de música de XBMC no encontrada"
+msgstr "No encontrada Base de datos para archivos de música..."
 
 msgctxt "#32131"
 msgid "Please insure Music Library is built."
-msgstr "Por favor compruebe que la Librería de Música existe"
+msgstr "Por favor asegúrate que la Biblioteca de Música esté construida."
 
 msgctxt "#32132"
 msgid "Updating Missing MusicBrainz Artist's IDs"
-msgstr "Actualizando los artistas de MusicBrainz faltantes"
+msgstr "Actualizando MusicBrainzID para Artistas faltantes"
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
-msgstr "Actualizando los álbumes/artistas de MusicBrainz faltantes"
+msgstr "Actualizando MusicBrainzID Álbum/Artista faltantes"
 
 msgctxt "#32134"
 msgid "Updating Addon Database"
-msgstr "Actualizando la base de datos de addons"
+msgstr "Actualizando Base de Datos del Addon"
 
 msgctxt "#32135"
 msgid "Updating Addon Database - Local Artists"
