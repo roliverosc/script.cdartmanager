@@ -28,7 +28,7 @@ msgstr "Artistas Reconocidos"
 
 msgctxt "#32001"
 msgid "Album cdARTs"
-msgstr "cdARTs para Álbumes"
+msgstr "cdARTs"
 
 msgctxt "#32002"
 msgid "Select Artist"
@@ -36,11 +36,11 @@ msgstr "Seleccionar artista"
 
 msgctxt "#32003"
 msgid "Album Cover Arts"
-msgstr "Portadas para Álbumes"
+msgstr "Cover Arts"
 
 msgctxt "#32004"
 msgid "Automatic Download"
-msgstr "Descarga Automática"
+msgstr "Realizar descarga automática"
 
 msgctxt "#32005"
 msgid "Save Local cdART List"
@@ -48,23 +48,23 @@ msgstr "Guardar lista local cdART"
 
 msgctxt "#32006"
 msgid "Artist Fanarts"
-msgstr "FanArts para Artistas"
+msgstr "FanArts"
 
 msgctxt "#32007"
 msgid "Local Album Artists: %s"
-msgstr "Artistas locales para álbum: %s"
+msgstr "Artistas Local: %s"
 
 msgctxt "#32008"
 msgid "Local cdARTs: %s"
-msgstr "cdARTs locales: %s"
+msgstr "cdARTs Local: %s"
 
 msgctxt "#32009"
 msgid "Artist ClearLOGOs"
-msgstr "ClearLOGOs para Artistas"
+msgstr "ClearLOGOs"
 
 msgctxt "#32010"
 msgid "Local Discs: %s"
-msgstr "Discos locales: %s"
+msgstr "Discos Local: %s"
 
 msgctxt "#32011"
 msgid "Advanced"
@@ -72,15 +72,15 @@ msgstr "Avanzado"
 
 msgctxt "#32012"
 msgid "Refresh Addon Database"
-msgstr "Actualizar base de datos del Add-on"
+msgstr "Reconstruir Base de Datos"
 
 msgctxt "#32013"
 msgid "Clean XBMC's Music Library"
-msgstr "Limpiar biblioteca de música KODI"
+msgstr "Limpiar biblioteca de música"
 
 msgctxt "#32014"
 msgid "Update XBMC's Music Library"
-msgstr "Actualizar biblioteca de música KODI"
+msgstr "Actualizar biblioteca de música"
 
 msgctxt "#32015"
 msgid "Delete Addon's Database?"
@@ -96,7 +96,7 @@ msgstr "Carpeta para guardar lista cdART local"
 
 msgctxt "#32018"
 msgid "cdART  Backup folder"
-msgstr "Carpeta para copia de seguridad cdART"
+msgstr "Ruta para copia de seguridad"
 
 msgctxt "#32019"
 msgid "Backup saving format: "
@@ -144,7 +144,7 @@ msgstr "¿No se encontraron ilustraciones?"
 
 msgctxt "#32030"
 msgid "Please contribute! Upload your Artwork"
-msgstr "Por favor, contribuya! Suba sus ilustraciones (Artwork)"
+msgstr "Por favor, contribuya! Considere subir sus ilustraciones"
 
 msgctxt "#32031"
 msgid "On fanart.tv"
@@ -239,7 +239,7 @@ msgstr "Por favor, vaya a Menú Avanzado y"
 
 msgctxt "#32053"
 msgid "Refresh Addon Database"
-msgstr "Actualice la Base de Datos del Add-on"
+msgstr "Renovar Base de Datos del Add-on"
 
 msgctxt "#32054"
 msgid "/Artist/Album.png"
@@ -271,7 +271,7 @@ msgstr "Copiando cdARTs..."
 
 msgctxt "#32061"
 msgid "cdART Backup"
-msgstr "Copia de seguridad cdART"
+msgstr "Copias de seguridad"
 
 msgctxt "#32062"
 msgid "Path for missing.txt file"
@@ -295,7 +295,7 @@ msgstr "Error al conectar con fanart.tv, tiempo de espera agotado!"
 
 msgctxt "#32067"
 msgid "Backup cdART Files"
-msgstr "Copia de seguridad archivos cdART"
+msgstr "Realizar copia de seguridad de archivos"
 
 msgctxt "#32068"
 msgid "Restore From Backup"
@@ -319,7 +319,7 @@ msgstr "Por favor, vaya a Menú de Configuración..."
 
 msgctxt "#32073"
 msgid "Then Advanced: Refresh Addon Database"
-msgstr "Opciones Avanzadas: Actualizar Base de Datos del Add-on"
+msgstr "Opciones Avanzadas: Renovar Base de Datos del Add-on"
 
 msgctxt "#32074"
 msgid "Copy cdART to Backup Folder"
@@ -407,7 +407,7 @@ msgstr "Habilitar colores personalizados para etiquetas"
 
 msgctxt "#32095"
 msgid "File Folders"
-msgstr "Carpetas para archivos"
+msgstr "Archivos"
 
 msgctxt "#32096"
 msgid "Duplicates Found"
@@ -447,7 +447,7 @@ msgstr "Subiendo al sitio web lista de cdART que faltan"
 
 msgctxt "#32105"
 msgid "Retrieving Album Details"
-msgstr "Recuperando detalles del Álbum"
+msgstr "Recuperando detalles para Álbum"
 
 msgctxt "#32106"
 msgid "Overwrite low-res existing cdARTs"
@@ -527,7 +527,7 @@ msgstr "ID del Artista: "
 
 msgctxt "#32126"
 msgid "Modify Addon Database"
-msgstr "Modificar Base de Datos del Add-on"
+msgstr "Modificar Base de Datos"
 
 msgctxt "#32127"
 msgid "Edit Album"
@@ -600,7 +600,7 @@ msgstr "Configuración Extra"
 
 msgctxt "#32144"
 msgid "Artist Thumbs"
-msgstr "Miniaturas de Artistas"
+msgstr "Thumbs (Miniaturas)"
 
 msgctxt "#32145"
 msgid "Update XBMC Thumbnails and Fanarts"
@@ -628,7 +628,7 @@ msgstr "Comprobando IDs MusicBrainz para Álbumes"
 
 msgctxt "#32151"
 msgid "Find Missing MBIDs"
-msgstr "Bucando IDs MusicBrainz faltantes"
+msgstr "Buscar IDs MusicBrainz que falten"
 
 msgctxt "#32152"
 msgid "Refresh MBIDs"
@@ -696,7 +696,7 @@ msgstr "Introducir ID MusicBrainz del Álbum - Incluyendo guiones (36 caráctere
 
 msgctxt "#32168"
 msgid "Artist Banners"
-msgstr "Banners para Artista"
+msgstr "Banners"
 
 msgctxt "#32169"
 msgid "400px X 155px"
@@ -715,8 +715,7 @@ msgid "Backup addon database during update"
 msgstr "Realizar copia de seguridad de Base de Datos durante actualización"
 
 msgctxt "#32173"
-msgid ""
-"Number of days to cache fanart.tv data(The Scheduler)[CR]Cache gets cleared "
+msgid """Number of days to cache fanart.tv data(The Scheduler)[CR]Cache gets cleared "
 "with manual use of cdART Manager"
 msgstr "Número de días para guardar datos de fanart.tv (The Scheduler)[CR]La memoria caché se borra con el uso de cdART Manager"
 
@@ -786,8 +785,8 @@ msgstr "     URL para Servidor MusicBrainz (ejemplo - http://192.168.1.20)"
 
 msgctxt "#32190"
 msgid "     Delay between MusicBrainz Server requests(100's of Milliseconds)"
-msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (Milisegundos)"
+msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (100 Milisegundos)"
 
 msgctxt "#32191"
 msgid "Refresh fanart.tv data"
-msgstr "Actualizar datos de fanart.tv"
+msgstr "Actualizar datos desde fanart.tv"
