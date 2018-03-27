@@ -31,7 +31,7 @@
         <description lang="pt">Este script permite que você gerencie seus cdARTs. Você poderá baixar cdARTs do site fanart.tv, efetuar backup, Visualizar e até apagar seus cdARTs
             armazenados localmente.
         </description>
-        <description lang="es">Con este script puede administrar sus cdARTs. Puede descargar cdARTs de fanart.tv y hacer una copia de seguridad de sus cdARTs.</description>
+        <description lang="es">Con este script puede administrar sus cdARTs. Puede descargar cdARTs de fanart.tv, ver o eliminar sus cdARTs locales o realizar una una copia de seguridad de sus cdARTs.</description>
         <license>GNU GENERAL PUBLIC LICENSE. Version 2, June 1991</license>
         <source>https://github.com/stefansielaff/script.cdartmanager</source>
         <forum>http://forum.kodi.tv/showthread.php?tid=77031</forum>
