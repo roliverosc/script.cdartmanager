@@ -76,11 +76,11 @@ msgstr "Actualizar base de datos del Add-on"
 
 msgctxt "#32013"
 msgid "Clean XBMC's Music Library"
-msgstr "Limpiar biblioteca de música de KODI"
+msgstr "Limpiar biblioteca de música KODI"
 
 msgctxt "#32014"
 msgid "Update XBMC's Music Library"
-msgstr "Actualizar biblioteca de música de KODI"
+msgstr "Actualizar biblioteca de música KODI"
 
 msgctxt "#32015"
 msgid "Delete Addon's Database?"
@@ -108,7 +108,7 @@ msgstr "Recuperando Base de Datos para música"
 
 msgctxt "#32021"
 msgid "Creating Addon Database"
-msgstr "Creando Base de Datos para Add-on"
+msgstr "Creando Base de Datos para el Add-on"
 
 msgctxt "#32022"
 msgid "Choose Available cdART"
@@ -144,7 +144,7 @@ msgstr "¿No se encontraron ilustraciones?"
 
 msgctxt "#32030"
 msgid "Please contribute! Upload your Artwork"
-msgstr "Por favor contribuya! Suba sus ilustraciones (Artwork)"
+msgstr "Por favor, contribuya! Suba sus ilustraciones (Artwork)"
 
 msgctxt "#32031"
 msgid "On fanart.tv"
@@ -168,7 +168,7 @@ msgstr " *DESCARGANDO ilustraciones* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
-msgstr "Ruta de la carpeta música (para ilustraciones)"
+msgstr "Ruta para ilustraciones"
 
 msgctxt "#32037"
 msgid "Getting local artists"
@@ -235,7 +235,7 @@ msgstr "La Base de Datos del Add-on es crucial para el script!"
 
 msgctxt "#32052"
 msgid "Please go to the Advanced Menu and"
-msgstr "Por favor vaya a Menú Avanzado y"
+msgstr "Por favor, vaya a Menú Avanzado y"
 
 msgctxt "#32053"
 msgid "Refresh Addon Database"
@@ -395,7 +395,7 @@ msgstr "   Color para ilustraciones que coinciden en Local y con fanart.tv"
 
 msgctxt "#32092"
 msgid "   Unmatched Album Color"
-msgstr "   Color para Álbum que NO coincide"
+msgstr "   Color para Álbum que NO Coincide"
 
 msgctxt "#32093"
 msgid "   Local cdART List Color"
@@ -451,7 +451,7 @@ msgstr "Recuperando detalles del Álbum"
 
 msgctxt "#32106"
 msgid "Overwrite low-res existing cdARTs"
-msgstr "Sobreescribir cdARTs existentes con baja resolución"
+msgstr "Sobreescribir cdARTs de baja resolución"
 
 msgctxt "#32108"
 msgid "Database too old"
@@ -479,7 +479,7 @@ msgstr "Finalizada actualización para Miniaturas y Fanarts"
 
 msgctxt "#32114"
 msgid "Check Database MBID's to be current during an Update"
-msgstr "Comprobar MBID(MusicBrainz Identifier) de la base de datos durante actualización"
+msgstr "Comprobar MBID de la base de datos durante actualización"
 
 msgctxt "#32115"
 msgid "Notify while in Background mode"
@@ -551,7 +551,7 @@ msgstr Por favor, asegúrese que la biblioteca de música haya sido creada."
 
 msgctxt "#32132"
 msgid "Updating Missing MusicBrainz Artist's IDs"
-msgstr "Actualizando ID de Artistas MusicBrainz faltantes"
+msgstr "Actualizando ID MusicBrainz de Artistas faltantes"
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
