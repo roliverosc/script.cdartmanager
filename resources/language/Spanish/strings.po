@@ -28,7 +28,7 @@ msgstr "Artistas Reconocidos"
 
 msgctxt "#32001"
 msgid "Album cdARTs"
-msgstr "cdARTs del Álbum"
+msgstr "cdARTs para Álbumes"
 
 msgctxt "#32002"
 msgid "Select Artist"
@@ -84,7 +84,7 @@ msgstr "Actualizar biblioteca de música KODI"
 
 msgctxt "#32015"
 msgid "Delete Addon's Database?"
-msgstr "¿Desea eliminar la base de datos para el Add-on?"
+msgstr "¿Desea eliminar la Base de Datos?"
 
 msgctxt "#32016"
 msgid "Disc:"
@@ -108,7 +108,7 @@ msgstr "Recuperando Base de Datos para música"
 
 msgctxt "#32021"
 msgid "Creating Addon Database"
-msgstr "Creando Base de Datos para el Add-on"
+msgstr "Creando Base de Datos"
 
 msgctxt "#32022"
 msgid "Choose Available cdART"
@@ -188,7 +188,7 @@ msgstr "Completado"
 
 msgctxt "#32041"
 msgid "New Artwork downloaded"
-msgstr "Nuevas ilustraciones descargadas"
+msgstr "Descargadas nuevas ilustraciones"
 
 msgctxt "#32042"
 msgid "cdART Manager"
@@ -543,7 +543,7 @@ msgstr "Actualizar Base de Datos"
 
 msgctxt "#32130"
 msgid "XBMC Music Database missing..."
-msgstr "No encontrada Base de Datos para archivos de música..."
+msgstr "No encontrada Base de Datos para música..."
 
 msgctxt "#32131"
 msgid "Please insure Music Library is built."
@@ -551,7 +551,7 @@ msgstr Por favor, asegúrese que la biblioteca de música haya sido creada."
 
 msgctxt "#32132"
 msgid "Updating Missing MusicBrainz Artist's IDs"
-msgstr "Actualizando ID MusicBrainz de Artistas faltantes"
+msgstr "Actualizando ID MusicBrainz faltantes de Artistas "
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
