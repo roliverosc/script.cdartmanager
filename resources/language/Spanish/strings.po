@@ -547,15 +547,15 @@ msgstr "No encontrada Base de Datos para música..."
 
 msgctxt "#32131"
 msgid "Please insure Music Library is built."
-msgstr Por favor, asegúrese que la biblioteca de música haya sido creada."
+msgstr "Por favor, asegúrese que la biblioteca de música haya sido creada."
 
 msgctxt "#32132"
 msgid "Updating Missing MusicBrainz Artist's IDs"
-msgstr "Actualizando ID MusicBrainz para Artistas faltantes"
+msgstr "Actualizando IDs MusicBrainz para Artistas faltantes"
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
-msgstr "Actualizando ID MusicBrainz para Álbum/Artista faltantes"
+msgstr "Actualizando IDs MusicBrainz para Álbum/Artista faltantes"
 
 msgctxt "#32134"
 msgid "Updating Addon Database"
@@ -696,7 +696,7 @@ msgstr "Introducir ID MusicBrainz del Álbum - Incluyendo guiones (36 caráctere
 
 msgctxt "#32168"
 msgid "Artist Banners"
-msgstr "Banners de Artista"
+msgstr "Banners para Artista"
 
 msgctxt "#32169"
 msgid "400px X 155px"
