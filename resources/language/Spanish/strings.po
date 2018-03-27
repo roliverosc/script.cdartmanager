@@ -375,11 +375,11 @@ msgstr "Rosa"
 
 msgctxt "#32087"
 msgid "   Recognized Artists Color"
-msgstr "   Color para Artistas Reconocidos"
+msgstr "   Color para Artistas reconocidos"
 
 msgctxt "#32088"
 msgid "   Unrecognized Artists Color"
-msgstr "   Color para Artistas NO Reconocidos"
+msgstr "   Color para Artistas NO reconocidos"
 
 msgctxt "#32089"
 msgid "   fanart.tv Albums Match Color"
@@ -395,7 +395,7 @@ msgstr "   Color para ilustraciones que coinciden en Local y con fanart.tv"
 
 msgctxt "#32092"
 msgid "   Unmatched Album Color"
-msgstr "   Color para Álbum que NO Coincide"
+msgstr "   Color para Álbum que NO coincide"
 
 msgctxt "#32093"
 msgid "   Local cdART List Color"
@@ -443,7 +443,7 @@ msgstr "Guardando lista de ilustraciones no encontradas"
 
 msgctxt "#32104"
 msgid "Uploading Missing cdART List to website"
-msgstr "Subiendo lista de cdART que faltan al sitio web"
+msgstr "Subiendo al sitio web lista de cdART que faltan"
 
 msgctxt "#32105"
 msgid "Retrieving Album Details"
@@ -455,7 +455,7 @@ msgstr "Sobreescribir cdARTs de baja resolución"
 
 msgctxt "#32108"
 msgid "Database too old"
-msgstr "Base de datos demasiada antigua"
+msgstr "La Base de datos es demasiado antigua"
 
 msgctxt "#32109"
 msgid "Do you want to Rebuild?"
@@ -555,7 +555,7 @@ msgstr "Actualizando ID MusicBrainz de Artistas faltantes"
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
-msgstr "Actualizando ID de Álbum/Artista MusicBrainz faltantes"
+msgstr "Actualizando ID MusicBrainz para Álbum/Artista faltantes"
 
 msgctxt "#32134"
 msgid "Updating Addon Database"
@@ -568,7 +568,7 @@ msgstr "Actualizando Base de Datos del Add-on - Artistas Locales"
 msgctxt "#32136"
 msgid ""
 "Enable MusicBrainz ID update during Addon Database update(for missing IDs)"
-msgstr "Habilitar actualización de ID MusicBrainz durante actualización de Base de Datos del Add-on (para IDs desconocidos)"
+msgstr "Habilitar actualizar ID MusicBrainz durante actualización Base de Datos (para IDs desconocidos)"
 
 msgctxt "#32137"
 msgid "Artist"
@@ -584,7 +584,7 @@ msgstr "Copia de seguridad de Base de Datos del Add-on realizada con éxito"
 
 msgctxt "#32140"
 msgid "Old Database version found..."
-msgstr "Base de Datos anterior encontrada..."
+msgstr "Encontrada Base de Datos anterior..."
 
 msgctxt "#32141"
 msgid "Would you like to add Local Artists to Addon Database?"
@@ -592,7 +592,7 @@ msgstr "¿Desea añadir los Artistas Locales a la Base de Datos del Addon?"
 
 msgctxt "#32142"
 msgid "Add all artists to Database during Database build or update?"
-msgstr "¿Desea agregar todos los Artistas a la Base de Datos durante la creación o actualización de la Base de Datos?"
+msgstr "Añadir todos los Artistas durante la creación o actualización de la Base de Datos"
 
 msgctxt "#32143"
 msgid "Extra Settings"
@@ -620,31 +620,31 @@ msgstr "(completar esta acción puede llevar un tiempo)"
 
 msgctxt "#32149"
 msgid "Checking Artist MBIDs"
-msgstr "Comprobando MusicBrainzID para Artistas"
+msgstr "Comprobando ID MusicBrainz para Artistas"
 
 msgctxt "#32150"
 msgid "Checking Album MBIDs"
-msgstr "Comprobando MusicBrainzID para Álbumes"
+msgstr "Comprobando ID MusicBrainz para Álbumes"
 
 msgctxt "#32151"
 msgid "Find Missing MBIDs"
-msgstr "Localizar MusicBrainzID faltantes"
+msgstr "Bucando IDs MusicBrainz faltantes"
 
 msgctxt "#32152"
 msgid "Refresh MBIDs"
-msgstr "Actualizar MusicBrainzID"
+msgstr "Actualizar ID MusicBrainz"
 
 msgctxt "#32153"
 msgid "Change MBID"
-msgstr "Cambiar MusicBrainzID"
+msgstr "Cambiar ID MusicBrainz"
 
 msgctxt "#32154"
 msgid "Check All MBIDs"
-msgstr "Comprobar todos los MusicBrainzID"
+msgstr "Comprobar todos los ID MusicBrainz"
 
 msgctxt "#32155"
 msgid "Enter MBID"
-msgstr "Introduzca MusicBrainzID"
+msgstr "Introduzca ID MusicBrainz (MusicBrainz Identifier)"
 
 msgctxt "#32156"
 msgid "Select from search(manual entry)"
@@ -660,11 +660,11 @@ msgstr "Habilitar guardado de archivo missing.txt"
 
 msgctxt "#32159"
 msgid "Enter Artist MBID - Including dashes(36 Characters)"
-msgstr "Introducir MusicBrainzID del intérprete - Incluyendo guiones (36 carácteres)"
+msgstr "Introducir ID MusicBrainz del intérprete - Incluyendo guiones (36 carácteres)"
 
 msgctxt "#32160"
 msgid "Please Enter 36 Characters including dashes"
-msgstr "Por favor, introduzca 36 carácteres incluidos guiones"
+msgstr "Por favor, introduzca los 36 carácteres incluidos guiones"
 
 msgctxt "#32161"
 msgid "Do you want to re-enter?"
@@ -672,11 +672,11 @@ msgstr "¿Desea volver a introducirlo?"
 
 msgctxt "#32162"
 msgid "Is this MBID Correct?"
-msgstr "¿Es correcto este MusicBrainzID?"
+msgstr "¿Es correcto este ID MusicBrainz?"
 
 msgctxt "#32163"
 msgid "Are you sure you want to delete MBID?"
-msgstr "¿Está seguro que desea eliminar este MusicBrainzID?"
+msgstr "¿Está seguro que desea eliminar este ID MusicBrainz?"
 
 msgctxt "#32164"
 msgid "Enter Artist name to search"
@@ -692,7 +692,7 @@ msgstr "Seleccionar Álbum"
 
 msgctxt "#32167"
 msgid "Enter Album MBID - Including dashes(36 Characters)"
-msgstr "Introducir MusicBrainzID del Álbum - Incluyendo guiones (36 carácteres)"
+msgstr "Introducir ID MusicBrainz del Álbum - Incluyendo guiones (36 carácteres)"
 
 msgctxt "#32168"
 msgid "Artist Banners"
@@ -718,19 +718,19 @@ msgctxt "#32173"
 msgid ""
 "Number of days to cache fanart.tv data(The Scheduler)[CR]Cache gets cleared "
 "with manual use of cdART Manager"
-msgstr "Número de días para almacenar en cache datos de fanart.tv (The Scheduler)[CR]La memoria caché se borra con el uso de cdART Manager"
+msgstr "Número de días para guardar datos de fanart.tv (The Scheduler)[CR]La memoria caché se borra con el uso de cdART Manager"
 
 msgctxt "#32174"
 msgid "Number of possible MBID matches:"
-msgstr "Número de posibles coincidencias para MusicBrainzID"
+msgstr "Número de coincidencias posibles para ID MusicBrainz:"
 
 msgctxt "#32175"
 msgid "Enable replacement of illegal filename characters in artist names"
-msgstr "Habilitar reemplazo de caracteres no validos para nombre de archivo Artistas"
+msgstr "Habilitar reemplazo de caracteres no validos para nombres de Artistas"
 
 msgctxt "#32176"
 msgid "   illegal characters to replace"
-msgstr "   caracteres no validos a remplazar"
+msgstr "   caracteres no validos"
 
 msgctxt "#32177"
 msgid "   replacement character"
