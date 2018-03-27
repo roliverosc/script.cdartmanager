@@ -712,7 +712,7 @@ msgstr "Habilitar logos HD para música (HDClearLogo)"
 
 msgctxt "#32172"
 msgid "Backup addon database during update"
-msgstr "Realizar copia de seguridad de la Base de Datos durante actualización"
+msgstr "Realizar copia de seguridad de Base de Datos durante actualización"
 
 msgctxt "#32173"
 msgid ""
@@ -754,15 +754,15 @@ msgstr "Hay un error en Ajustes."
 
 msgctxt "#32182"
 msgid "Please check your settings and save settings[CR](press OK in settings)"
-msgstr "Por favor, verifique los Ajustes y guardelo[CR](presione OK en los Ajustes)
+msgstr "Por favor, verifique los Ajustes y guardelos[CR](presione OK en Ajustes)
 
 msgctxt "#32183"
 msgid "Limit number Extrafanarts"
-msgstr "Número maximo de Extrafanarts"
+msgstr "Habilitar limite en Extrafanarts"
 
 msgctxt "#32184"
 msgid "    Extrafanart Limit:"
-msgstr "    Limite para Extrafanart:"
+msgstr "    Número Máximo:"
 
 msgctxt "#32185"
 msgid "Checking fanart.tv for new artwork..."
@@ -774,19 +774,19 @@ msgstr "Actualizando Base de Datos a nueva versión..."
 
 msgctxt "#32187"
 msgid "Checking fanart.tv for artwork..."
-msgstr "Comprobando fanart.tv en busca de ilustraciones"
+msgstr "Comprobando fanart.tv en busca de ilustraciones..."
 
 msgctxt "#32188"
 msgid "Use http://musicbrainz.org as the MusicBrainz Server"
-msgstr "Utilizar http://musicbrainz.org como servidor MusicBrainz"
+msgstr "Utilizar http://musicbrainz.org como Servidor MusicBrainz"
 
 msgctxt "#32189"
 msgid "     Url path to MusicBrainz Server(example - http://192.168.1.20)"
-msgstr "     Ruta URL para Servidor MusicBrainz (ejemplo - http://192.168.1.20)"
+msgstr "     URL para Servidor MusicBrainz (ejemplo - http://192.168.1.20)"
 
 msgctxt "#32190"
 msgid "     Delay between MusicBrainz Server requests(100's of Milliseconds)"
-msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (0.1 Segundos)"
+msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (Milisegundos)"
 
 msgctxt "#32191"
 msgid "Refresh fanart.tv data"
