@@ -168,7 +168,7 @@ msgstr " *DESCARGANDO ilustraciones* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
-msgstr "Ruta para ilustraciones"
+msgstr "Ruta para guardar ilustraciones"
 
 msgctxt "#32037"
 msgid "Getting local artists"
@@ -479,7 +479,7 @@ msgstr "Finalizada actualización para Miniaturas y Fanarts"
 
 msgctxt "#32114"
 msgid "Check Database MBID's to be current during an Update"
-msgstr "Comprobar MBID de la base de datos durante actualización"
+msgstr "Comprobar MBID de la Base de Datos durante actualización"
 
 msgctxt "#32115"
 msgid "Notify while in Background mode"
