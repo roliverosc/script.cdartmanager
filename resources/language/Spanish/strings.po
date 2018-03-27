@@ -551,7 +551,7 @@ msgstr Por favor, asegúrese que la biblioteca de música haya sido creada."
 
 msgctxt "#32132"
 msgid "Updating Missing MusicBrainz Artist's IDs"
-msgstr "Actualizando ID MusicBrainz faltantes de Artistas "
+msgstr "Actualizando ID MusicBrainz para Artistas faltantes"
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
@@ -620,11 +620,11 @@ msgstr "(completar esta acción puede llevar un tiempo)"
 
 msgctxt "#32149"
 msgid "Checking Artist MBIDs"
-msgstr "Comprobando ID MusicBrainz para Artistas"
+msgstr "Comprobando IDs MusicBrainz para Artistas"
 
 msgctxt "#32150"
 msgid "Checking Album MBIDs"
-msgstr "Comprobando ID MusicBrainz para Álbumes"
+msgstr "Comprobando IDs MusicBrainz para Álbumes"
 
 msgctxt "#32151"
 msgid "Find Missing MBIDs"
@@ -632,7 +632,7 @@ msgstr "Bucando IDs MusicBrainz faltantes"
 
 msgctxt "#32152"
 msgid "Refresh MBIDs"
-msgstr "Actualizar ID MusicBrainz"
+msgstr "Actualizar IDs MusicBrainz"
 
 msgctxt "#32153"
 msgid "Change MBID"
@@ -640,7 +640,7 @@ msgstr "Cambiar ID MusicBrainz"
 
 msgctxt "#32154"
 msgid "Check All MBIDs"
-msgstr "Comprobar todos los ID MusicBrainz"
+msgstr "Comprobar todos los IDs MusicBrainz"
 
 msgctxt "#32155"
 msgid "Enter MBID"
