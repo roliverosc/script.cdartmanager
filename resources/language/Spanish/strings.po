@@ -72,7 +72,7 @@ msgstr "Avanzado"
 
 msgctxt "#32012"
 msgid "Refresh Addon Database"
-msgstr "Reconstruir Base de Datos"
+msgstr "Refrescar Base de Datos"
 
 msgctxt "#32013"
 msgid "Clean XBMC's Music Library"
@@ -124,7 +124,7 @@ msgstr "Ilustraciones descargadas!"
 
 msgctxt "#32025"
 msgid "Check file paths-Artwork Not Downloaded"
-msgstr "Comprube rutas para archivos - Ilustraciones no descargadas"
+msgstr "Comprobar rutas para archivos - Ilustraciones no descargadas"
 
 msgctxt "#32026"
 msgid "Download Error Occured!"
@@ -144,7 +144,7 @@ msgstr "¿No se encontraron ilustraciones?"
 
 msgctxt "#32030"
 msgid "Please contribute! Upload your Artwork"
-msgstr "Por favor, contribuya! Considere subir sus ilustraciones"
+msgstr "Por favor, contribuya! Suba sus ilustraciones"
 
 msgctxt "#32031"
 msgid "On fanart.tv"
@@ -239,7 +239,7 @@ msgstr "Por favor, vaya a Menú Avanzado y"
 
 msgctxt "#32053"
 msgid "Refresh Addon Database"
-msgstr "Renovar Base de Datos del Add-on"
+msgstr "Refrescar Base de Datos"
 
 msgctxt "#32054"
 msgid "/Artist/Album.png"
@@ -311,15 +311,15 @@ msgstr "cdARTs restaurados desde la carpeta de respaldo"
 
 msgctxt "#32071"
 msgid "Settings have not been setup!"
-msgstr "Ajustes no configurados!"
+msgstr "Los Ajustes no han sido configurados!"
 
 msgctxt "#32072"
 msgid "Please go to Settings menu..."
-msgstr "Por favor, vaya a Menú de Configuración..."
+msgstr "Por favor, vaya al Menú de Configuración..."
 
 msgctxt "#32073"
 msgid "Then Advanced: Refresh Addon Database"
-msgstr "Opciones Avanzadas: Renovar Base de Datos del Add-on"
+msgstr "Opciones Avanzadas: Refrescar Base de Datos"
 
 msgctxt "#32074"
 msgid "Copy cdART to Backup Folder"
@@ -443,7 +443,7 @@ msgstr "Guardando lista de ilustraciones no encontradas"
 
 msgctxt "#32104"
 msgid "Uploading Missing cdART List to website"
-msgstr "Subiendo al sitio web lista de cdART que faltan"
+msgstr "Subiendo a sitio web lista de cdART no encontrados"
 
 msgctxt "#32105"
 msgid "Retrieving Album Details"
@@ -455,7 +455,7 @@ msgstr "Sobreescribir cdARTs de baja resolución"
 
 msgctxt "#32108"
 msgid "Database too old"
-msgstr "La Base de datos es demasiado antigua"
+msgstr "Base de datos demasiado antigua"
 
 msgctxt "#32109"
 msgid "Do you want to Rebuild?"
@@ -463,7 +463,7 @@ msgstr "¿Desea volver a crearla?"
 
 msgctxt "#32110"
 msgid "Problem Accessing Folder, Script Exiting"
-msgstr "Problema accediendo a la carpeta, cerrando Script"
+msgstr "Problemas accediendo a la carpeta, cerrando Script"
 
 msgctxt "#32111"
 msgid "Downloaded Artwork"
@@ -479,7 +479,7 @@ msgstr "Finalizada actualización para Miniaturas y Fanarts"
 
 msgctxt "#32114"
 msgid "Check Database MBID's to be current during an Update"
-msgstr "Comprobar MBID de la Base de Datos durante actualización"
+msgstr "Comprobar durante actualización MBID de Base de Datos"
 
 msgctxt "#32115"
 msgid "Notify while in Background mode"
@@ -487,7 +487,7 @@ msgstr "Notificar mientras está en modo segundo plano"
 
 msgctxt "#32116"
 msgid "Notify At End of Background Database Build(displayed for 2 seconds)"
-msgstr "Notificar al finalizar creación de base de datos (se mostrara durante 2 segundos)"
+msgstr "Notificar al finalizar creación de Base de Datos (se mostrara durante 2 segundos)"
 
 msgctxt "#32117"
 msgid "Database Building completed"
@@ -495,11 +495,11 @@ msgstr "Creación de Base de Datos completada"
 
 msgctxt "#32118"
 msgid "Background Database building in progress...  Exiting Script..."
-msgstr "Creación Base de Datos en progreso...  Saliendo del Script..."
+msgstr "Creando Base de Datos en segundo plano...  Saliendo del Script..."
 
 msgctxt "#32119"
 msgid "Stopping Background Database Building"
-msgstr "Deteniendo creación de Base de Datos"
+msgstr "Deteniendo creación Base de Datos en segundo plano"
 
 msgctxt "#32120"
 msgid "All Artists"
@@ -535,7 +535,7 @@ msgstr "Editar Álbum"
 
 msgctxt "#32128"
 msgid "MusicBrainz Search Limit"
-msgstr "Límite para búsqueda en MusicBrainz"
+msgstr "Límite para búsquedas en MusicBrainz"
 
 msgctxt "#32129"
 msgid "Update Database"
@@ -551,11 +551,11 @@ msgstr "Por favor, asegúrese que la biblioteca de música haya sido creada."
 
 msgctxt "#32132"
 msgid "Updating Missing MusicBrainz Artist's IDs"
-msgstr "Actualizando IDs MusicBrainz para Artistas faltantes"
+msgstr "Actualizando IDs MusicBrainz de Artistas no encontrados "
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
-msgstr "Actualizando IDs MusicBrainz para Álbum/Artista faltantes"
+msgstr "Actualizando IDs MusicBrainz para Álbum/Artista no enocntrados"
 
 msgctxt "#32134"
 msgid "Updating Addon Database"
@@ -566,8 +566,7 @@ msgid "Updating Addon Database - Local Artists"
 msgstr "Actualizando Base de Datos del Add-on - Artistas Locales"
 
 msgctxt "#32136"
-msgid ""
-"Enable MusicBrainz ID update during Addon Database update(for missing IDs)"
+msgid """Enable MusicBrainz ID update during Addon Database update(for missing IDs)"
 msgstr "Habilitar actualizar ID MusicBrainz durante actualización Base de Datos (para IDs desconocidos)"
 
 msgctxt "#32137"
@@ -616,7 +615,7 @@ msgstr "Salir"
 
 msgctxt "#32148"
 msgid "(this can take a long time to complete)"
-msgstr "(completar esta acción puede llevar un tiempo)"
+msgstr "(completar esta acción puede llevar mucho tiempo)"
 
 msgctxt "#32149"
 msgid "Checking Artist MBIDs"
@@ -721,7 +720,7 @@ msgstr "Número de días para guardar datos de fanart.tv (The Scheduler)[CR]La m
 
 msgctxt "#32174"
 msgid "Number of possible MBID matches:"
-msgstr "Número de coincidencias posibles para ID MusicBrainz:"
+msgstr "Número de posibles coincidencias para ID MusicBrainz:"
 
 msgctxt "#32175"
 msgid "Enable replacement of illegal filename characters in artist names"
@@ -749,11 +748,11 @@ msgstr "    "
 
 msgctxt "#32181"
 msgid "There is an error in Settings."
-msgstr "Hay un error en Ajustes."
+msgstr "Hay un error en la Configuración."
 
 msgctxt "#32182"
 msgid "Please check your settings and save settings[CR](press OK in settings)"
-msgstr "Por favor, verifique los Ajustes y guardelos[CR](presione OK en Ajustes)
+msgstr "Por favor, verifique los Ajustes y guardelos[CR](presione OK en Ajustes)"
 
 msgctxt "#32183"
 msgid "Limit number Extrafanarts"
@@ -789,4 +788,4 @@ msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (100 Milisegundos)
 
 msgctxt "#32191"
 msgid "Refresh fanart.tv data"
-msgstr "Actualizar datos desde fanart.tv"
+msgstr "Actualizar datos de fanart.tv"
