@@ -447,7 +447,7 @@ msgstr "Subiendo a sitio web lista de cdART no encontrados"
 
 msgctxt "#32105"
 msgid "Retrieving Album Details"
-msgstr "Recuperando detalles para Álbum"
+msgstr "Recuperando detalles para Álbumes"
 
 msgctxt "#32106"
 msgid "Overwrite low-res existing cdARTs"
@@ -551,7 +551,7 @@ msgstr "Por favor, asegúrese que la biblioteca de música haya sido creada."
 
 msgctxt "#32132"
 msgid "Updating Missing MusicBrainz Artist's IDs"
-msgstr "Actualizando IDs MusicBrainz de Artistas no encontrados "
+msgstr "Actualizando IDs MusicBrainz de Artistas no encontrados"
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
@@ -591,7 +591,7 @@ msgstr "¿Desea añadir los Artistas Locales a la Base de Datos del Addon?"
 
 msgctxt "#32142"
 msgid "Add all artists to Database during Database build or update?"
-msgstr "Añadir todos los Artistas durante la creación o actualización de la Base de Datos"
+msgstr "Añadir todos los Artistas durante creación o actualización de la Base de Datos"
 
 msgctxt "#32143"
 msgid "Extra Settings"
@@ -784,7 +784,7 @@ msgstr "     URL para Servidor MusicBrainz (ejemplo - http://192.168.1.20)"
 
 msgctxt "#32190"
 msgid "     Delay between MusicBrainz Server requests(100's of Milliseconds)"
-msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (100 Milisegundos)"
+msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (100´s Milisegundos)"
 
 msgctxt "#32191"
 msgid "Refresh fanart.tv data"
