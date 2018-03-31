@@ -451,7 +451,7 @@ msgstr "Recuperando detalles para Álbumes"
 
 msgctxt "#32106"
 msgid "Overwrite low-res existing cdARTs"
-msgstr "Sobreescribir cdARTs de baja resolución"
+msgstr "Sobrescribir cdARTs de baja resolución"
 
 msgctxt "#32108"
 msgid "Database too old"
@@ -555,7 +555,7 @@ msgstr "Actualizando IDs MusicBrainz de Artistas no encontrados"
 
 msgctxt "#32133"
 msgid "Updating Missing MusicBrainz Album/Artist ID's"
-msgstr "Actualizando IDs MusicBrainz para Álbum/Artista no enocntrados"
+msgstr "Actualizando IDs MusicBrainz para Álbum/Artista no encontrados"
 
 msgctxt "#32134"
 msgid "Updating Addon Database"
@@ -659,11 +659,11 @@ msgstr "Habilitar guardado de archivo missing.txt"
 
 msgctxt "#32159"
 msgid "Enter Artist MBID - Including dashes(36 Characters)"
-msgstr "Introducir ID MusicBrainz del intérprete - Incluyendo guiones (36 carácteres)"
+msgstr "Introducir ID MusicBrainz del intérprete - Incluyendo guiones (36 caracteres)"
 
 msgctxt "#32160"
 msgid "Please Enter 36 Characters including dashes"
-msgstr "Por favor, introduzca los 36 carácteres incluidos guiones"
+msgstr "Por favor, introduzca los 36 caracteres incluidos guiones"
 
 msgctxt "#32161"
 msgid "Do you want to re-enter?"
@@ -752,7 +752,7 @@ msgstr "Hay un error en la Configuración."
 
 msgctxt "#32182"
 msgid "Please check your settings and save settings[CR](press OK in settings)"
-msgstr "Por favor, verifique los Ajustes y guardelos[CR](presione OK en Ajustes)"
+msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK en Ajustes)"
 
 msgctxt "#32183"
 msgid "Limit number Extrafanarts"
