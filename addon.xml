@@ -14,7 +14,7 @@
     <extension point="xbmc.addon.metadata">
         <platform>all</platform>
         <summary>cdART Manager enriches your music collection with several types of fanart provided by fanart.tv</summary>
-        <summary lang="es">cdART Manager enriquece su colección de música con varios tipos de ilustraciones proporcionadas por fanart.tv</summary>
+        <summary lang="es">cdART Manager enriquece su colección de música con ilustraciones proporcionadas por fanart.tv</summary>
         <description>With this script you are able to manage your cdARTs. You can download cdARTs from fanart.tv, Backup your cdARTs, View and even delete your local cdARTs
         </description>
         <description lang="hu">A programmal könnyen kezelheted a CD lemez képeidet (CDArts). Letöltheted vele őket az fanart.tv-ról, biztonsági másolatot készíthetsz róluk,
