@@ -141,7 +141,7 @@ msgstr "Descarga cancelada!"
 
 msgctxt "#32029"
 msgid "No Artwork found?"
-msgstr "¿No se encontraron ilustraciones?"
+msgstr "¿No encontró ilustraciones?"
 
 msgctxt "#32030"
 msgid "Please contribute! Upload your Artwork"
@@ -236,11 +236,11 @@ msgstr "La Base de Datos del Add-on es crucial para el script!"
 
 msgctxt "#32052"
 msgid "Please go to the Advanced Menu and"
-msgstr "Por favor, vaya a Menú Avanzado y"
+msgstr "Por favor vaya a Menú Avanzado y"
 
 msgctxt "#32053"
 msgid "Refresh Addon Database"
-msgstr "Refrescar Base de Datos"
+msgstr "Refresque la Base de Datos"
 
 msgctxt "#32054"
 msgid "/Artist/Album.png"
@@ -280,11 +280,11 @@ msgstr "Ruta para archivo missing.txt"
 
 msgctxt "#32063"
 msgid "Copy Unique Local cdARTs"
-msgstr "Copiar cdARTs locales Unique"
+msgstr "Copiar cdARTs locales Especiales"
 
 msgctxt "#32064"
 msgid "Unique cdARTS folder: %s"
-msgstr "Carpeta cdARTS Unique: %s"
+msgstr "Carpeta Especial cdARTS : %s"
 
 msgctxt "#32065"
 msgid "Comparing Local and Online cdARTs..."
@@ -332,7 +332,7 @@ msgstr "Borrar cdART"
 
 msgctxt "#32076"
 msgid "Copy To Unique Folder For Upload"
-msgstr "Copiar Carpeta Unique para subir"
+msgstr "Copiar Carpeta Especial para subir"
 
 msgctxt "#32077"
 msgid "Custom Label Colors"
@@ -416,7 +416,7 @@ msgstr "Duplicados encontrados"
 
 msgctxt "#32097"
 msgid "    Resize Unique cdARTs?"
-msgstr "    Cambiar tamaño para cdARTs Unique?"
+msgstr "    Cambiar tamaño para cdARTs Especiales?"
 
 msgctxt "#32098"
 msgid "Local cdART List"
@@ -567,8 +567,8 @@ msgid "Updating Addon Database - Local Artists"
 msgstr "Actualizando Base de Datos - Artistas Locales"
 
 msgctxt "#32136"
-msgid """Enable MusicBrainz ID update during Addon Database update(for missing IDs)"
-msgstr """Habilitar actualizar ID MusicBrainz durante actualización Base de Datos (para IDs desconocidos)"
+msgid "Enable MusicBrainz ID update during Addon Database update(for missing IDs)"
+msgstr "Habilitar actualizar ID MusicBrainz durante actualización Base de Datos (para IDs desconocidos)"
 
 msgctxt "#32137"
 msgid "Artist"
@@ -648,11 +648,11 @@ msgstr "Introduzca ID MusicBrainz (MusicBrainz Identifier)"
 
 msgctxt "#32156"
 msgid "Select from search(manual entry)"
-msgstr "Seleccionar desde búsqueda (entrada manual)"
+msgstr "Seleccionar desde búsqueda (manual)"
 
 msgctxt "#32157"
 msgid "Select from search(automatic)"
-msgstr "Seleccionar desde búsqueda (entrada automática)"
+msgstr "Seleccionar desde búsqueda (automático)"
 
 msgctxt "#32158"
 msgid "Enable saving of missing.txt file"
@@ -731,7 +731,7 @@ msgstr "Habilitar el reemplazo de caracteres para nombres de Artistas"
 
 msgctxt "#32176"
 msgid "   illegal characters to replace"
-msgstr "   caracteres no validos"
+msgstr "   caracteres no válidos"
 
 msgctxt "#32177"
 msgid "   replacement character"
@@ -759,7 +759,7 @@ msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK en Ajustes
 
 msgctxt "#32183"
 msgid "Limit number Extrafanarts"
-msgstr "Habilitar limite en Extrafanarts"
+msgstr "Habilitar límite en Extrafanarts"
 
 msgctxt "#32184"
 msgid "    Extrafanart Limit:"
