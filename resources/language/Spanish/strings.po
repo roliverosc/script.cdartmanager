@@ -484,7 +484,7 @@ msgstr "Comprobar IDMB actuales durante actualización de Base de Datos"
 
 msgctxt "#32115"
 msgid "Notify while in Background mode"
-msgstr "Notificar mientras se esta en modo segundo plano"
+msgstr "Notificar mientras se está en modo segundo plano"
 
 msgctxt "#32116"
 msgid "Notify At End of Background Database Build(displayed for 2 seconds)"
@@ -692,7 +692,7 @@ msgstr "Seleccionar Álbum"
 
 msgctxt "#32167"
 msgid "Enter Album MBID - Including dashes(36 Characters)"
-msgstr "Introducir ID MusicBrainz del Álbum - Incluyendo guiones (36 carácteres)"
+msgstr "Introducir ID MusicBrainz del Álbum - Incluyendo guiones (36 caracteres)"
 
 msgctxt "#32168"
 msgid "Artist Banners"
