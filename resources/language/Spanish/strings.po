@@ -97,7 +97,7 @@ msgstr "Carpeta para guardar lista local cdART"
 
 msgctxt "#32018"
 msgid "cdART  Backup folder"
-msgstr "Ruta para copia de seguridad"
+msgstr "Carpeta para copia de seguridad"
 
 msgctxt "#32019"
 msgid "Backup saving format: "
@@ -169,7 +169,7 @@ msgstr " *DESCARGANDO ilustraciones* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
-msgstr "Ruta para guardar ilustraciones"
+msgstr "Ruta de capeta música (para ilustraciones)"
 
 msgctxt "#32037"
 msgid "Getting local artists"
@@ -189,7 +189,7 @@ msgstr "Completado"
 
 msgctxt "#32041"
 msgid "New Artwork downloaded"
-msgstr "Descargadas nuevas ilustraciones"
+msgstr "Nuevas ilustraciones descargadas"
 
 msgctxt "#32042"
 msgid "cdART Manager"
@@ -220,7 +220,7 @@ msgstr "Descargando..."
 
 msgctxt "#32048"
 msgid "Retrieving Recognized Artist List...."
-msgstr "Recuperando lista de artistas reconocidos...."
+msgstr "Recuperando lista de artistas reconocidos..."
 
 msgctxt "#32049"
 msgid "Artists Matched: %s"
@@ -280,11 +280,11 @@ msgstr "Ruta para archivo missing.txt"
 
 msgctxt "#32063"
 msgid "Copy Unique Local cdARTs"
-msgstr "Copiar cdARTs locales Especiales"
+msgstr "Copiar cdARTs locales únicos"
 
 msgctxt "#32064"
 msgid "Unique cdARTS folder: %s"
-msgstr "Carpeta Especial cdARTS : %s"
+msgstr "Carpeta cdARTs únicos: %s"
 
 msgctxt "#32065"
 msgid "Comparing Local and Online cdARTs..."
@@ -332,7 +332,7 @@ msgstr "Borrar cdART"
 
 msgctxt "#32076"
 msgid "Copy To Unique Folder For Upload"
-msgstr "Copiar Carpeta Especial para subir"
+msgstr "Copiar a la Carpeta única para subir"
 
 msgctxt "#32077"
 msgid "Custom Label Colors"
@@ -416,7 +416,7 @@ msgstr "Duplicados encontrados"
 
 msgctxt "#32097"
 msgid "    Resize Unique cdARTs?"
-msgstr "    Cambiar tamaño para cdARTs Especiales?"
+msgstr "    Cambiar tamaño para cdARTs únicos?"
 
 msgctxt "#32098"
 msgid "Local cdART List"
@@ -476,7 +476,7 @@ msgstr "Actualizando Miniaturas y Fanarts"
 
 msgctxt "#32113"
 msgid "Finished updating Thumbnails and Fanarts"
-msgstr "Finalizada actualización para Miniaturas y Fanarts"
+msgstr "Finalizada actualización de Miniaturas y Fanarts"
 
 msgctxt "#32114"
 msgid "Check Database MBID's to be current during an Update"
@@ -484,7 +484,7 @@ msgstr "Comprobar IDMB actuales durante actualización de Base de Datos"
 
 msgctxt "#32115"
 msgid "Notify while in Background mode"
-msgstr "Notificar mientras está en modo segundo plano"
+msgstr "Notificar mientras se esta en modo segundo plano"
 
 msgctxt "#32116"
 msgid "Notify At End of Background Database Build(displayed for 2 seconds)"
@@ -492,7 +492,7 @@ msgstr "Notificar al finalizar creación de Base de Datos (se mostrara durante 2
 
 msgctxt "#32117"
 msgid "Database Building completed"
-msgstr "Creación de Base de Datos completada"
+msgstr "Creación de la Base de Datos completada"
 
 msgctxt "#32118"
 msgid "Background Database building in progress...  Exiting Script..."
@@ -500,7 +500,7 @@ msgstr "Creando Base de Datos en segundo plano...  Saliendo del Script..."
 
 msgctxt "#32119"
 msgid "Stopping Background Database Building"
-msgstr "Deteniendo creación Base de Datos en segundo plano"
+msgstr "Deteniendo creación de Base de Datos en segundo plano"
 
 msgctxt "#32120"
 msgid "All Artists"
@@ -568,7 +568,7 @@ msgstr "Actualizando Base de Datos - Artistas Locales"
 
 msgctxt "#32136"
 msgid "Enable MusicBrainz ID update during Addon Database update(for missing IDs)"
-msgstr "Habilitar actualizar ID MusicBrainz durante actualización Base de Datos (para IDs desconocidos)"
+msgstr "Actualizar ID MusicBrainz durante actualización de la Base de Datos (para IDs desconocidos)"
 
 msgctxt "#32137"
 msgid "Artist"
@@ -580,7 +580,7 @@ msgstr "Álbum"
 
 msgctxt "#32139"
 msgid "Successfully backed up Addon Database"
-msgstr "Copia de seguridad de Base de Datos realizada con éxito"
+msgstr "Copia de seguridad de la Base de Datos realizada con éxito"
 
 msgctxt "#32140"
 msgid "Old Database version found..."
@@ -592,7 +592,7 @@ msgstr "¿Desea añadir los Artistas Locales a la Base de Datos?"
 
 msgctxt "#32142"
 msgid "Add all artists to Database during Database build or update?"
-msgstr "Añadir todos los Artistas durante creación o actualización de la Base de Datos"
+msgstr "Añadir Artistas durante la creación o actualización de la Base de Datos"
 
 msgctxt "#32143"
 msgid "Extra Settings"
@@ -632,7 +632,7 @@ msgstr "Buscar IDs MusicBrainz para no reconocidos"
 
 msgctxt "#32152"
 msgid "Refresh MBIDs"
-msgstr "Actualizar IDs MusicBrainz"
+msgstr "Refrescar IDs MusicBrainz"
 
 msgctxt "#32153"
 msgid "Change MBID"
@@ -644,7 +644,7 @@ msgstr "Comprobar todos los IDs MusicBrainz"
 
 msgctxt "#32155"
 msgid "Enter MBID"
-msgstr "Introduzca ID MusicBrainz (MusicBrainz Identifier)"
+msgstr "Introducir ID MusicBrainz"
 
 msgctxt "#32156"
 msgid "Select from search(manual entry)"
@@ -715,11 +715,8 @@ msgid "Backup addon database during update"
 msgstr "Realizar copia de seguridad de Base de Datos durante actualización"
 
 msgctxt "#32173"
-msgid """Number of days to cache fanart.tv data(The Scheduler)[CR]Cache gets cleared "
-"with manual use of cdART Manager"
-#msgstr "Número de días para guardar datos de fanart.tv (The Scheduler)[CR]La memoria caché se borra con el uso de cdART Manager"
-msgstr """Número de días para almacenar en caché los datos de fanart.tv(The Scheduler)[CR]La caché se borra "
-"con el uso manual de cdART Manager "
+msgid "Number of days to cache fanart.tv data(The Scheduler)[CR]Cache gets cleared with manual use of cdART Manager"
+msgstr "Número de días para almacenar en caché datos de fanart.tv(The Scheduler)[CR]La caché se borra con el uso manual de cdART Manager"
 
 msgctxt "#32174"
 msgid "Number of possible MBID matches:"
@@ -751,11 +748,11 @@ msgstr "    cambiar punto final por caracteres de remplazo"
 
 msgctxt "#32181"
 msgid "There is an error in Settings."
-msgstr "Hay un error en la Configuración."
+msgstr "Hay un error en los Ajustes."
 
 msgctxt "#32182"
 msgid "Please check your settings and save settings[CR](press OK in settings)"
-msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK en Ajustes)"
+msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK)"
 
 msgctxt "#32183"
 msgid "Limit number Extrafanarts"
@@ -783,7 +780,7 @@ msgstr "Utilizar http://musicbrainz.org como Servidor MusicBrainz"
 
 msgctxt "#32189"
 msgid "     Url path to MusicBrainz Server(example - http://192.168.1.20)"
-msgstr "     URL para Servidor MusicBrainz (ejemplo - http://192.168.1.20)"
+msgstr "     Ruta URL para Servidor MusicBrainz (ejemplo - http://192.168.1.20)"
 
 msgctxt "#32190"
 msgid "     Delay between MusicBrainz Server requests(100's of Milliseconds)"
