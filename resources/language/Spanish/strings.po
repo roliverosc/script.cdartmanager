@@ -332,7 +332,7 @@ msgstr "Borrar cdART"
 
 msgctxt "#32076"
 msgid "Copy To Unique Folder For Upload"
-msgstr "Copiar a la Carpeta única para subir"
+msgstr "Copiar a carpeta única para subir"
 
 msgctxt "#32077"
 msgid "Custom Label Colors"
@@ -416,7 +416,7 @@ msgstr "Duplicados encontrados"
 
 msgctxt "#32097"
 msgid "    Resize Unique cdARTs?"
-msgstr "    Cambiar tamaño para cdARTs únicos?"
+msgstr "    ¿Desea cambiar el tamaño para cdARTs únicos?"
 
 msgctxt "#32098"
 msgid "Local cdART List"
@@ -464,7 +464,7 @@ msgstr "¿Desea reconstruirla?"
 
 msgctxt "#32110"
 msgid "Problem Accessing Folder, Script Exiting"
-msgstr "Problemas accediendo a la carpeta, cerrando Script"
+msgstr "Problemas accediendo a la carpeta, saliendo del Script"
 
 msgctxt "#32111"
 msgid "Downloaded Artwork"
@@ -480,7 +480,7 @@ msgstr "Finalizada actualización de Miniaturas y Fanarts"
 
 msgctxt "#32114"
 msgid "Check Database MBID's to be current during an Update"
-msgstr "Comprobar IDMB actuales durante actualización de Base de Datos"
+msgstr "Comprobar IDMB actuales durante actualización de la Base de Datos"
 
 msgctxt "#32115"
 msgid "Notify while in Background mode"
@@ -752,7 +752,7 @@ msgstr "Hay un error en los Ajustes."
 
 msgctxt "#32182"
 msgid "Please check your settings and save settings[CR](press OK in settings)"
-msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK)"
+msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK en los ajustes)"
 
 msgctxt "#32183"
 msgid "Limit number Extrafanarts"
