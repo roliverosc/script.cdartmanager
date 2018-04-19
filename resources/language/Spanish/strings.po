@@ -169,7 +169,7 @@ msgstr " *DESCARGANDO ilustraciones* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
-msgstr "Ruta de capeta música (para ilustraciones)"
+msgstr "Ruta de carpeta música (para ilustraciones)"
 
 msgctxt "#32037"
 msgid "Getting local artists"
@@ -724,7 +724,7 @@ msgstr "Número de posibles coincidencias para ID MusicBrainz:"
 
 msgctxt "#32175"
 msgid "Enable replacement of illegal filename characters in artist names"
-msgstr "Habilitar el reemplazo de caracteres para nombres de Artistas"
+msgstr "Habilitar reemplazo de caracteres para nombres de Artistas"
 
 msgctxt "#32176"
 msgid "   illegal characters to replace"
@@ -744,7 +744,7 @@ msgstr ""
 
 msgctxt "#32180"
 msgid "    change trailing periods to replacement character"
-msgstr "    cambiar punto final por caracteres de remplazo"
+msgstr "    cambiar punto y final por caracteres de reemplazo"
 
 msgctxt "#32181"
 msgid "There is an error in Settings."
