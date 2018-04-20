@@ -169,7 +169,7 @@ msgstr " *DESCARGANDO ilustraciones* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
-msgstr "Ruta de la carpeta de música (para ilustraciones)"
+msgstr "Ruta de carpeta música (para ilustraciones)"
 
 msgctxt "#32037"
 msgid "Getting local artists"
