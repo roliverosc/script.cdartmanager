@@ -33,7 +33,7 @@ msgstr "cdARTs"
 
 msgctxt "#32002"
 msgid "Select Artist"
-msgstr "Seleccionar artista"
+msgstr "Seleccionar Artista"
 
 msgctxt "#32003"
 msgid "Album Cover Arts"
@@ -169,7 +169,7 @@ msgstr " *DESCARGANDO ilustraciones* "
 
 msgctxt "#32036"
 msgid "Music folder path(for Artwork)"
-msgstr "Ruta de carpeta música (para ilustraciones)"
+msgstr "Ruta de la carpeta de música (para ilustraciones)"
 
 msgctxt "#32037"
 msgid "Getting local artists"
@@ -280,11 +280,11 @@ msgstr "Ruta para archivo missing.txt"
 
 msgctxt "#32063"
 msgid "Copy Unique Local cdARTs"
-msgstr "Copiar cdARTs locales únicos"
+msgstr "Copiar cdARTs locales Únicos"
 
 msgctxt "#32064"
 msgid "Unique cdARTS folder: %s"
-msgstr "Carpeta cdARTs únicos: %s"
+msgstr "Carpeta cdARTs Únicos: %s"
 
 msgctxt "#32065"
 msgid "Comparing Local and Online cdARTs..."
@@ -416,7 +416,7 @@ msgstr "Duplicados encontrados"
 
 msgctxt "#32097"
 msgid "    Resize Unique cdARTs?"
-msgstr "    ¿Desea cambiar el tamaño para cdARTs únicos?"
+msgstr "    ¿Desea cambiar el tamaño para cdARTs Únicos?"
 
 msgctxt "#32098"
 msgid "Local cdART List"
