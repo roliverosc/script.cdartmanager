@@ -25,7 +25,7 @@ msgstr ""
 
 msgctxt "#32000"
 msgid "Recognized Artists"
-msgstr "Artistas Reconocidos"
+msgstr "Artistas reconocidos"
 
 msgctxt "#32001"
 msgid "Album cdARTs"
@@ -45,7 +45,7 @@ msgstr "Realizar descarga automática"
 
 msgctxt "#32005"
 msgid "Save Local cdART List"
-msgstr "Guardar lista local cdART"
+msgstr "Guardar lista cdART local"
 
 msgctxt "#32006"
 msgid "Artist Fanarts"
@@ -93,7 +93,7 @@ msgstr "Discos:"
 
 msgctxt "#32017"
 msgid "Local cdART List saving folder"
-msgstr "Carpeta para guardar lista local cdART"
+msgstr "Carpeta para guardar lista cdART local"
 
 msgctxt "#32018"
 msgid "cdART  Backup folder"
@@ -312,7 +312,7 @@ msgstr "cdARTs restaurados desde carpeta de respaldo"
 
 msgctxt "#32071"
 msgid "Settings have not been setup!"
-msgstr "Los Ajustes no han sido configurados!"
+msgstr "Los ajustes no han sido configurados!"
 
 msgctxt "#32072"
 msgid "Please go to Settings menu..."
@@ -332,7 +332,7 @@ msgstr "Borrar cdART"
 
 msgctxt "#32076"
 msgid "Copy To Unique Folder For Upload"
-msgstr "Copiar a carpeta única para subir"
+msgstr "Copiar a carpeta Única para subir"
 
 msgctxt "#32077"
 msgid "Custom Label Colors"
@@ -716,7 +716,7 @@ msgstr "Realizar copia de seguridad de Base de Datos durante actualización"
 
 msgctxt "#32173"
 msgid "Number of days to cache fanart.tv data(The Scheduler)[CR]Cache gets cleared with manual use of cdART Manager"
-msgstr "Número de días para almacenar en caché datos de fanart.tv(The Scheduler)[CR]La caché se borra con el uso manual de cdART Manager"
+msgstr "Número de días para almacenar caché de fanart.tv(The Scheduler)[CR]La caché se borra con el uso manual de cdART Manager"
 
 msgctxt "#32174"
 msgid "Number of possible MBID matches:"
@@ -732,7 +732,7 @@ msgstr "   caracteres no válidos"
 
 msgctxt "#32177"
 msgid "   replacement character"
-msgstr "   caracteres de reemplazo"
+msgstr "   caracter de reemplazo"
 
 msgctxt "#32178"
 msgid "Yes"
@@ -744,7 +744,7 @@ msgstr ""
 
 msgctxt "#32180"
 msgid "    change trailing periods to replacement character"
-msgstr "    cambiar punto y final por caracteres de reemplazo"
+msgstr "    cambiar punto final por caracter de reemplazo"
 
 msgctxt "#32181"
 msgid "There is an error in Settings."
