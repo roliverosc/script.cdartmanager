@@ -232,11 +232,11 @@ msgstr "Configuración de la Base de Datos cancelada..."
 
 msgctxt "#32051"
 msgid "Addon Database is crucial to script!"
-msgstr "La Base de Datos del Add-on es crucial para el script!"
+msgstr "La Base de Datos del Addon es crucial para el script!"
 
 msgctxt "#32052"
 msgid "Please go to the Advanced Menu and"
-msgstr "Por favor vaya a Menú Avanzado y"
+msgstr "Por favor vaya a menú Avanzado y"
 
 msgctxt "#32053"
 msgid "Refresh Addon Database"
@@ -316,11 +316,11 @@ msgstr "Los ajustes no han sido configurados!"
 
 msgctxt "#32072"
 msgid "Please go to Settings menu..."
-msgstr "Por favor, vaya al Menú de Configuración..."
+msgstr "Por favor, vaya a menú Configuración..."
 
 msgctxt "#32073"
 msgid "Then Advanced: Refresh Addon Database"
-msgstr "Opciones Avanzadas: Refrescar Base de Datos"
+msgstr "Avanzado > Refrescar Base de Datos"
 
 msgctxt "#32074"
 msgid "Copy cdART to Backup Folder"
@@ -392,7 +392,7 @@ msgstr "   Color para Álbumes Locales que coinciden"
 
 msgctxt "#32091"
 msgid "   Local and fanart.tv Match Color"
-msgstr "   Color para ilustraciones que coinciden en Local y con fanart.tv"
+msgstr "   Color para ilustraciones que coinciden en Local y fanart.tv"
 
 msgctxt "#32092"
 msgid "   Unmatched Album Color"
@@ -660,7 +660,7 @@ msgstr "Habilitar guardado de archivo missing.txt"
 
 msgctxt "#32159"
 msgid "Enter Artist MBID - Including dashes(36 Characters)"
-msgstr "Introducir ID MusicBrainz del intérprete - Incluyendo guiones (36 caracteres)"
+msgstr "Introducir IDMB del Artista - Incluyendo guiones(36 caracteres)"
 
 msgctxt "#32160"
 msgid "Please Enter 36 Characters including dashes"
@@ -692,7 +692,7 @@ msgstr "Seleccionar Álbum"
 
 msgctxt "#32167"
 msgid "Enter Album MBID - Including dashes(36 Characters)"
-msgstr "Introducir ID MusicBrainz del Álbum - Incluyendo guiones (36 caracteres)"
+msgstr "Introducir IDMB del Álbum - Incluyendo guiones(36 caracteres)"
 
 msgctxt "#32168"
 msgid "Artist Banners"
@@ -744,7 +744,7 @@ msgstr ""
 
 msgctxt "#32180"
 msgid "    change trailing periods to replacement character"
-msgstr "    cambiar punto final por caracter de reemplazo"
+msgstr "   cambiar punto final por caracter de reemplazo"
 
 msgctxt "#32181"
 msgid "There is an error in Settings."
@@ -752,7 +752,7 @@ msgstr "Hay un error en los Ajustes."
 
 msgctxt "#32182"
 msgid "Please check your settings and save settings[CR](press OK in settings)"
-msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK en los ajustes)"
+msgstr "Por favor, verifique los Ajustes y guárdelos[CR](presione OK para guardar)"
 
 msgctxt "#32183"
 msgid "Limit number Extrafanarts"
@@ -760,7 +760,7 @@ msgstr "Habilitar límite en Extrafanarts"
 
 msgctxt "#32184"
 msgid "    Extrafanart Limit:"
-msgstr "    Número Máximo:"
+msgstr "    Número máximo:"
 
 msgctxt "#32185"
 msgid "Checking fanart.tv for new artwork..."
@@ -788,4 +788,4 @@ msgstr "     Retraso entre solicitudes a Servidor MusicBrainz (100 Milisegundos)
 
 msgctxt "#32191"
 msgid "Refresh fanart.tv data"
-msgstr "Actualizar datos de fanart.tv"
+msgstr "Refrescar datos de fanart.tv"
