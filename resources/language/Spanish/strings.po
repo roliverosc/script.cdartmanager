@@ -568,7 +568,7 @@ msgstr "Actualizando Base de Datos - Artistas Locales"
 
 msgctxt "#32136"
 msgid "Enable MusicBrainz ID update during Addon Database update(for missing IDs)"
-msgstr "Actualizar ID MusicBrainz durante actualización de la Base de Datos (para IDs desconocidos)"
+msgstr "Actualizar IDMB durante actualización de la Base de Datos (para IDs desconocidos)"
 
 msgctxt "#32137"
 msgid "Artist"
@@ -720,7 +720,7 @@ msgstr "Número de días para almacenar caché de fanart.tv(The Scheduler)[CR]La
 
 msgctxt "#32174"
 msgid "Number of possible MBID matches:"
-msgstr "Número de posibles coincidencias para ID MusicBrainz:"
+msgstr "Número coincidencias posibles para ID MusicBrainz:"
 
 msgctxt "#32175"
 msgid "Enable replacement of illegal filename characters in artist names"
